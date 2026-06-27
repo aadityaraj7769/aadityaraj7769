@@ -18,7 +18,7 @@ Backend & Distributed Systems · Observability · Java / Spring Boot
 - 🚀 Built a **Redis-backed distributed rate limiter** in Java/Spring Boot sustaining **21K req/s at p99 9ms**, with full OpenTelemetry → Prometheus → Grafana observability stack.
 - 🤖 Automated instrumentation across **50,000+ lines of legacy code** using AI-assisted tooling — reducing manual effort by **80%**.
 - 📬 Built a **Smart Email Tagging System** combining LDA, Llama 2, GloVe, and SBERT — improving short-text email classification accuracy from **27% → 76%**.
-- 🏆 **Specialist** on Codeforces (peak **1469**) · **Knight** on LeetCode (peak **1859**) · Rank **783** in LeetCode Biweekly Contest 180.
+- 🏆 **Knight** on LeetCode (peak **1923**) · Rank **584** in LeetCode Biweekly Contest 185 · **Specialist** on Codeforces (peak **1469**).
 
 ---
 
